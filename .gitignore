@@ -1,5 +1,8 @@
 # Compiled Lua sources
 luac.out
+.vscode
+.idea
+.vs
 
 # luarocks build files
 *.src.rock
